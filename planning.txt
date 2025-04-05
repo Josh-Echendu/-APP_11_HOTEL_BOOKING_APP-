@@ -1,0 +1,9 @@
+USER can see a lot of hotels
+User can book a hotel
+user can get a reservation ticket
+
+
+Classes:  we want to look for nouns in the sentences above
+user
+hotel
+reservation ticket
